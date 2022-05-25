@@ -17,8 +17,8 @@ At the end, a high-quality annotated dataset will be proudly made in Vietnam, an
 
 ## QnA & Issue report
 If you have any issues or questions with vCaptcha, please go to this <link> to let us know.
-https://forms.gle/t8x47JpwqNGRFzcL7
+> https://forms.gle/t8x47JpwqNGRFzcL7
 
 ## Volunteer
 Just by interacting with vCaptcha, you can significantly help contribute to create a high-quality annotated dataset. The anti-bot is just a feature that you can ignore since we know when you read this you must be a human. We hope that you can spend time labeling as accurately as possible using vCaptcha.
->> Insert vCaptcha box
+> Insert vCaptcha box
