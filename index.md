@@ -1,5 +1,5 @@
 # vCaptcha
-> We appreciate every single click
+> CAPTCHA for Vietnamese
 
 ## About our project
 Most of the recent breakthroughs in AI-related research and applications are data driven. Annotated data plays the main role in improving AI/ML-based solutions. The lack of high-quality annotated data is one of the main obstacles to AI adoption. Manual annotation is expensive and not scalable. This project aims to tackle the problem by developing a crowdsourcing system for labeling machine learning datasets, to be specific, Vietnamese scene text with word-level annotations.
