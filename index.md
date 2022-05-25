@@ -11,3 +11,7 @@ At the end, a high-quality annotated dataset will be proudly made in Vietnam, an
 ## FAQ
 1. What if I can't Verify?
 2. What data will be collected?
+
+## QnA & Issue report
+
+## Volunteer
