@@ -11,6 +11,7 @@ At the end, a high-quality annotated dataset will be proudly made in Vietnam, an
 ## FAQ
 1. What if I can't Verify?
 - In case you submit answer but vCaptcha does not let you pass the challenge, you should retry another challenge . Try to pick the pieces as accurately as possible, no much or less pieces should be chosen.
+- If you think the image is too confusing, you can simply skip by clicking reload button
 - If you think that there might be some problems with vCaptcha assessment, please contact us to raise issue via <https://forms.gle/t8x47JpwqNGRFzcL7>
 2. What data will be collected?
 - None of your private information will be collected. We will only save your answer in our system.
