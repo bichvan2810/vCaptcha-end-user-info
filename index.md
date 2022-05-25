@@ -10,8 +10,15 @@ At the end, a high-quality annotated dataset will be proudly made in Vietnam, an
 
 ## FAQ
 1. What if I can't Verify?
+- In case you submit answer but vCaptcha does not let you pass the challenge, you should retry another challenge . Try to pick the pieces as accurately as possible, no much or less pieces should be chosen.
+- If you think that there might be some problems with vCaptcha assessment, please contact us to raise issue via <https://forms.gle/t8x47JpwqNGRFzcL7>
 2. What data will be collected?
+- None of your private information will be collected. We will only save your answer in our system.
 
 ## QnA & Issue report
+If you have any issues or questions with vCaptcha, please go to this <link> to let us know.
+https://forms.gle/t8x47JpwqNGRFzcL7
 
 ## Volunteer
+Just by interacting with vCaptcha, you can significantly help contribute to create a high-quality annotated dataset. The anti-bot is just a feature that you can ignore since we know when you read this you must be a human. We hope that you can spend time labeling as accurately as possible using vCaptcha.
+>> Insert vCaptcha box
