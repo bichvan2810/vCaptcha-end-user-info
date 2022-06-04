@@ -23,3 +23,6 @@ If you have any issues or questions with vCaptcha, please go to this <link> to l
 ## Volunteer
 Just by interacting with vCaptcha, you can significantly help contribute to create a high-quality annotated dataset. The anti-bot is just a feature that you can ignore since we know when you read this you must be a human. We hope that you can spend time labeling as accurately as possible using vCaptcha.
 > Insert vCaptcha box
+
+## Intergrate to your webpage
+[GO TO DEVELOPER PAGE](developer)
