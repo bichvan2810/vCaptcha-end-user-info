@@ -1,6 +1,11 @@
 # vCaptcha
 > CAPTCHA for Vietnamese
 
+## Integrate to your webpage
+Try to use demo version of vCaptcha: [Click here to go to demo page](demo)
+
+Read full documentation of integrating vCaptcha to your site: [GO TO DEVELOPER PAGE](developer)
+
 ## About our project
 Most of the recent breakthroughs in AI-related research and applications are data driven. Annotated data plays the main role in improving AI/ML-based solutions. The lack of high-quality annotated data is one of the main obstacles to AI adoption. Manual annotation is expensive and not scalable. This project aims to tackle the problem by developing a crowdsourcing system for labeling machine learning datasets, to be specific, Vietnamese scene text with word-level annotations.
 
@@ -23,6 +28,3 @@ If you have any issues or questions with vCaptcha, please go to this <link> to l
 ## Volunteer
 Just by interacting with vCaptcha, you can significantly help contribute to create a high-quality annotated dataset. The anti-bot is just a feature that you can ignore since we know when you read this you must be a human. We hope that you can spend time labeling as accurately as possible using vCaptcha.
 > Insert vCaptcha box
-
-## Intergrate to your webpage
-[GO TO DEVELOPER PAGE](developer)
