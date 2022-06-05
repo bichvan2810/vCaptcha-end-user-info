@@ -1,6 +1,4 @@
-# vCaptcha
-> CAPTCHA cho tiếng Việt
-> [English version](english)
+[English](english)
 
 ## Tích hợp vào trang web của bạn
 - Đọc tài liệu đầy đủ về cách tích hợp vCaptcha vào trang web của bạn: [CHUYỂN ĐẾN TRANG NHÀ PHÁT TRIỂN](developer)
