@@ -1,30 +1,28 @@
 # vCaptcha
-> CAPTCHA for Vietnamese
+> CAPTCHA cho tiếng Việt
+> [English version](english)
 
-## Integrate to your webpage
-Try to use demo version of vCaptcha: [Click here to go to demo page](demo)
+## Tích hợp vào trang web của bạn
+- Đọc tài liệu đầy đủ về cách tích hợp vCaptcha vào trang web của bạn: [CHUYỂN ĐẾN TRANG NHÀ PHÁT TRIỂN](developer)
+- Hãy thử sử dụng phiên bản demo của vCaptcha: [Nhấp vào đây để chuyển đến trang demo](demo)
 
-Read full documentation of integrating vCaptcha to your site: [GO TO DEVELOPER PAGE](developer)
+## Về dự án của chúng tôi
+Hầu hết các đột phá gần đây trong nghiên cứu và ứng dụng liên quan đến AI đều hướng tới dữ liệu. Dữ liệu được chú thích đóng vai trò chính trong việc cải thiện các giải pháp dựa trên AI / ML. Việc thiếu dữ liệu được chú thích chất lượng cao là một trong những trở ngại chính đối với việc áp dụng AI. Chú thích thủ công đắt tiền và không thể mở rộng. Dự án này nhằm giải quyết vấn đề bằng cách phát triển một hệ thống cung ứng cộng đồng để gắn nhãn các bộ dữ liệu học máy, cụ thể là văn bản cảnh tiếng Việt với các chú thích cấp độ từ.
 
-## About our project
-Most of the recent breakthroughs in AI-related research and applications are data driven. Annotated data plays the main role in improving AI/ML-based solutions. The lack of high-quality annotated data is one of the main obstacles to AI adoption. Manual annotation is expensive and not scalable. This project aims to tackle the problem by developing a crowdsourcing system for labeling machine learning datasets, to be specific, Vietnamese scene text with word-level annotations.
+Trong công việc này, chúng tôi sẽ xây dựng một hệ thống chú thích dữ liệu nguồn cung ứng cộng đồng - vCaptcha - trong việc hình thành một tiện ích chống bot để tích hợp vào trang web bạn đang truy cập. Sau đó, phản hồi của bạn sẽ giúp đánh giá và tạo các nhãn có nguồn lực cộng đồng.
 
-In this work, we will build a crowdsourcing data annotation system - vCaptcha - in the formation of an anti-bot widget to integrate to the web page you are visiting. After that, your response will help evaluate and generate the crowdsourced labels.
+Cuối cùng, bộ dữ liệu có chú thích chất lượng cao sẽ được sản xuất tại Việt Nam một cách tự hào và đóng góp đáng kể vào sự phát triển của khoa học Việt Nam.
 
-At the end, a high-quality annotated dataset will be proudly made in Vietnam, and significantly contributed to the development of Vietnamese science.
+## Câu hỏi thường gặp
+1. Điều gì xảy ra nếu tôi không thể Xác minh?
+- Trong trường hợp bạn gửi câu trả lời nhưng vCaptcha không cho bạn vượt qua thử thách, bạn nên thử lại thử thách khác. Cố gắng chọn các mảnh càng chính xác càng tốt, không nên chọn nhiều hay ít.
+- Nếu bạn cho rằng hình ảnh quá khó hiểu, bạn có thể bỏ qua bằng cách nhấp vào nút tải lại
+- Nếu bạn cho rằng có thể có một số vấn đề với đánh giá vCaptcha, vui lòng liên hệ với chúng tôi để nêu vấn đề qua <https://forms.gle/t8x47JpwqNGRFzcL7>
+2. Dữ liệu nào sẽ được thu thập?
+- Không có thông tin cá nhân của bạn sẽ được thu thập. Chúng tôi sẽ chỉ lưu câu trả lời của bạn trong hệ thống của chúng tôi.
 
-## FAQ
-1. What if I can't Verify?
-- In case you submit answer but vCaptcha does not let you pass the challenge, you should retry another challenge . Try to pick the pieces as accurately as possible, no much or less pieces should be chosen.
-- If you think the image is too confusing, you can simply skip by clicking reload button
-- If you think that there might be some problems with vCaptcha assessment, please contact us to raise issue via <https://forms.gle/t8x47JpwqNGRFzcL7>
-2. What data will be collected?
-- None of your private information will be collected. We will only save your answer in our system.
+## Thắc mắc & Báo cáo sự cố
+Nếu bạn có bất kỳ vấn đề hoặc câu hỏi nào với vCaptcha, vui lòng truy cập này để cho chúng tôi biết qua: <https://forms.gle/t8x47JpwqNGRFzcL7>
 
-## QnA & Issue report
-If you have any issues or questions with vCaptcha, please go to this <link> to let us know.
-> https://forms.gle/t8x47JpwqNGRFzcL7
-
-## Volunteer
-Just by interacting with vCaptcha, you can significantly help contribute to create a high-quality annotated dataset. The anti-bot is just a feature that you can ignore since we know when you read this you must be a human. We hope that you can spend time labeling as accurately as possible using vCaptcha.
-> Insert vCaptcha box
+## Tình nguyện viên
+Chỉ cần tương tác với vCaptcha, bạn có thể góp phần đáng kể vào việc tạo tập dữ liệu có chú thích chất lượng cao. Anti-bot chỉ là một tính năng mà bạn có thể bỏ qua vì chúng tôi biết khi bạn đọc nó, bạn phải là một con người. Chúng tôi hy vọng rằng bạn có thể dành thời gian ghi nhãn chính xác nhất có thể bằng vCaptcha.
