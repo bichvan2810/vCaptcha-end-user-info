@@ -24,3 +24,5 @@ Nếu bạn có bất kỳ vấn đề hoặc câu hỏi nào với vCaptcha, vu
 
 ## Tình nguyện viên
 Chỉ cần tương tác với vCaptcha, bạn có thể góp phần đáng kể vào việc tạo tập dữ liệu có chú thích chất lượng cao. Anti-bot chỉ là một tính năng mà bạn có thể bỏ qua vì chúng tôi biết khi bạn đọc nó, bạn phải là một con người. Chúng tôi hy vọng rằng bạn có thể dành thời gian ghi nhãn chính xác nhất có thể bằng vCaptcha.
+
+[Nhấp vào đây để đóng góp công sức](volunteer)
