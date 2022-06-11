@@ -1,7 +1,7 @@
 [English](english)
 
 ## Tích hợp vào trang web của bạn
-- Đọc tài liệu đầy đủ về cách tích hợp vCaptcha vào trang web của bạn: [CHUYỂN ĐẾN TRANG NHÀ PHÁT TRIỂN](developer)
+- Đọc tài liệu đầy đủ về cách tích hợp vCaptcha vào trang web của bạn: [Chuyển đến trang nhà phát triển](developer)
 - Hãy thử sử dụng phiên bản demo của vCaptcha: [Nhấp vào đây để chuyển đến trang demo](demo)
 
 ## Về dự án của chúng tôi
@@ -23,6 +23,6 @@ Cuối cùng, bộ dữ liệu có chú thích chất lượng cao sẽ được
 Nếu bạn có bất kỳ vấn đề hoặc câu hỏi nào với vCaptcha, vui lòng truy cập này để cho chúng tôi biết qua: <https://forms.gle/t8x47JpwqNGRFzcL7>
 
 ## Tình nguyện viên
-Chỉ cần tương tác với vCaptcha, bạn có thể góp phần đáng kể vào việc tạo tập dữ liệu có chú thích chất lượng cao. Anti-bot chỉ là một tính năng mà bạn có thể bỏ qua vì chúng tôi biết khi bạn đọc nó, bạn phải là một con người. Chúng tôi hy vọng rằng bạn có thể dành thời gian ghi nhãn chính xác nhất có thể bằng vCaptcha.
+Chỉ cần tương tác với vCaptcha, bạn có thể góp phần đáng kể vào việc tạo tập dữ liệu có chú thích chất lượng cao. Anti-bot chỉ là một tính năng mà bạn có thể bỏ qua vì chúng tôi biết khi bạn đọc nó, bạn phải là một con người. Chúng tôi hy vọng rằng bạn có thể dành thời gian ghi nhãn thật chính xác bằng vCaptcha.
 
 [Nhấp vào đây để đóng góp công sức](volunteer)
