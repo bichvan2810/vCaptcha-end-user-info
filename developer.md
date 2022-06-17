@@ -62,3 +62,26 @@ Body:
   "hostname": "YOUR SITE'S HOSTNAME"
 }
 ```
+
+## 5. Extra functions
+
+### 5.1 Succeed callback
+
+You can tell vCaptcha to execute your callback when the user verify succeed by passing the second params to `vCaptcha.render`:
+
+```html
+<script type="text/javascript">
+  function succeedCallback(){
+    console.log("vCaptcha verified the answer successfully.")
+  }
+  vCaptcha.render('vcaptcha-content', succeedCallback)
+</script>
+```
+
+### 5.2 Check if verified in client-side:
+
+If you need to check whether vCapthca is verified on client-side, you could use `vCaptcha.isVerified`.
+
+This property will have the `true` value when user answer challenges successfully.
+
+**_Caveat: This is not a method to check the validity of a session._**
